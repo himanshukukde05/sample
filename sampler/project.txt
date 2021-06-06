@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Himanshu Kukde</title>
+</head>
+<body>
+<p><h1>Himanshu Kukde</h1></p>
+<nav>
+<a href="https://rogerfederer.com/">One</a>
+<a href="https://www.cristianoronaldo.com/">Two</a>
+<a href="https://www.fcbarcelona.com/">Three</a>
+<a href="http://novakdjokovic.com/">Four</a>
+</nav>
+<section><p><h2>Favorite Foods</h2></p>
+<ul>
+<li>Pasta</li>
+<li>chicken</li>
+<li>cake</li>
+<li>burger</li>
+</ul>
+</p></section>
+<section><p><h2>Achievements</h2></p>
+Progress in this course (100%):<progress value="100" max="100"></progress> 
+</section>
+</body>
